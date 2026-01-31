@@ -1,15 +1,15 @@
-# CPCG-EXAM
-<!DOCTYPE html>
+# PYTHON AND ITS' HISTORY, USES IN THE DOMAIN OF ECONOMICS
+
 <html>
 <head>
-  <title>PYTHON AND ITS' HISTORY, USES IN THE DOMAIN OF ECONOMICS</title>
+  <title></title>
 </head>
 <body>
-  <h1>About Python</h1>
+  <h1>ABOUT PYTHON</h1>
 
   <p>Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It’s used everywhere – from web apps and automation tools to data science and artificial intelligence. Whether you’re streaming a show, booking a flight, or chatting with an AI, Python is likely working behind the scenes.</p>
 
-  <h2>History of Python</h2>
+  <h2>HISTORY OF PYTHON</h2>
   <p>Python’s story begins with a single programmer. Guido van Rossum designed the language and released it on February 20, 1991, aiming to create a system that felt clear, approachable, and even enjoyable to write. Unlike many programming languages that originate inside large corporations, Python grew out of one person’s attempt to simplify the act of coding.
 
 The name is a cultural joke rather than a biological reference. It comes from the BBC comedy series Monty Python’s Flying Circus, reflecting the playful spirit Guido wanted the language to carry.
@@ -18,7 +18,7 @@ What started as an individual project quickly attracted a global following. Deve
 
 Today, stewardship of the language rests with the Python Software Foundation, a nonprofit organization that protects and supports Python’s development while nurturing the worldwide network of contributors who keep it evolving.</p>
 
-  <h2>Uses in Economics</h2>
+  <h2>USES IN ECONOMICS</h2>
   <p>Python’s role in economics grew alongside a transformation in how economists work. For much of the 20th century, research depended on rigid statistical software and languages like Fortran. As datasets expanded and models became more computational, economists needed tools that were flexible and readable. Python filled that need.
 
 In the early 2000s, scientific libraries such as NumPy and SciPy made Python suitable for heavy numerical work like matrix algebra, optimization, and simulations, all central to economic modeling. This helped researchers write complex models in a clear, accessible style, which encouraged experimentation and collaboration.
