@@ -2,7 +2,6 @@
 
 <html>
 <head>
-  <title></title>
 </head>
 <body>
   <h1>ABOUT PYTHON</h1>
@@ -28,10 +27,6 @@ Python also lowered barriers to entry. Because it is free and open source, stude
 As economic data expanded in scale, from financial markets to social and policy datasets, Python became a practical environment for cleaning, analyzing, and visualizing information in one workflow. Today it sits at the intersection of economics and data science, powering forecasting, experiments, and policy analysis. In that sense, Python not only assists economics but also reshapes how economic knowledge is produced and shared.
 </p>
 
-  <pre>
-x = 10
-print(x)
-  </pre>
 
 </body>
 </html>
